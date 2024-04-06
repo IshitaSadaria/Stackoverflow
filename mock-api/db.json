@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "email": "amira@gmai.com",
+      "username": "Amira",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "email": "ami@gmail.com",
+      "username": "Ami",
+      "password": "1234567",
+      "id": 2
+    },
+    {
+      "email": "ishi@g.com",
+      "username": "Ishi",
+      "password": "098765",
+      "id": 3
+    },
+    {
+      "email": "jack@g.co",
+      "username": "jack",
+      "password": "jack12",
+      "id": 4
+    }
+  ],
+  "questions": [
+    {
+      "username": "Ishi",
+      "question": "Sample question",
+      "solutions": [],
+      "id": 2
+    },
+    {
+      "username": "Amira",
+      "question": "what is promise in angular ?",
+      "solutions": [
+        {
+          "username": "jack",
+          "solution": "Promises are a powerful tool for handling asynchronous operations in Angular. They provide a way to handle the result of an asynchronous operation once it is complete and can be used with the HttpClient service to make HTTP requests to a server.",
+          "upvotes": [
+            4
+          ],
+          "downvotes": []
+        }
+      ],
+      "id": 4
+    }
+  ]
+}
