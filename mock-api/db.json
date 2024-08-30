@@ -40,12 +40,26 @@
           "username": "jack",
           "solution": "Promises are a powerful tool for handling asynchronous operations in Angular. They provide a way to handle the result of an asynchronous operation once it is complete and can be used with the HttpClient service to make HTTP requests to a server.",
           "upvotes": [
-            4
+            4,
+            2
           ],
           "downvotes": []
         }
       ],
       "id": 4
+    },
+    {
+      "username": "Ami",
+      "question": "What is AI technology ?",
+      "solutions": [
+        {
+          "username": "Ami",
+          "solution": "Artificial intelligence (AI) is a set of technologies that enable machines to perform functions that are similar to human cognitive processes. These functions include: \nLearning: AI can learn from experience and adjust to new inputs. \nProblem solving: AI can solve problems and act to achieve a specific goal. \nDecision making: AI can make recommendations. \nCreativity: AI can be creative. \nCommunication: AI can understand and translate spoken and written language. \nData analysis: AI can analyze data. \nAI is used in many applications, including chess-playing computers and self-driving cars. AI uses deep learning and natural language processing to accomplish specific tasks by processing large amounts of data. \n",
+          "upvotes": [],
+          "downvotes": []
+        }
+      ],
+      "id": 5
     }
   ]
 }
